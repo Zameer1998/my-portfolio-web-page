@@ -1,7 +1,7 @@
 import React from "react";
 import "./navbar.css";
-import logo from "../assets/logo.jpg" // Adjust the path as necessary
-import contact from "../assets/contact.png"; // Adjust the path as necessary
+import logo from "../../assets/logo.jpg" // Adjust the path as necessary
+import contact from "../../assets/contact.png"; // Adjust the path as necessary
 import { Link } from "react-scroll"; // Assuming you're using react-router for navigation
 
 const Navbar = () => {
